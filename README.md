@@ -29,8 +29,8 @@ El tablero consolida las métricas clave de negocio en una sola vista ejecutiva:
 * **Palancas de rendimiento:** ADR, tasa de cancelación por tipo de depósito y volumen por segmento de mercado.
 * **Gestión de riesgos:** Curva de cancelaciones basada en el tiempo de anticipación (*Lead Time*).
 
- **[Explora el Dashboard en Vivo en Tableau Public]((https://public.tableau.com/views/DASHBOARHOTELBOOKINGS/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
-
+ **[Explora el Dashboard en Vivo en Tableau Public]**
+https://public.tableau.com/views/DASHBOARHOTELBOOKINGS/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ##  Principales Insights de Negocio
